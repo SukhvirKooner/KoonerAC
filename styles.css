@@ -1,0 +1,146 @@
+.container-fluid {
+    padding: 3% 10% 5%;
+}
+
+#title {
+    background-color: #EEEE;
+}
+
+.nav-item {
+    padding: 0 20px;
+    font-size: 1.5rem;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+.navbar-brand {
+    font-family: 'limelight', cursive;
+    font-size: 3rem;
+}
+
+.navbar {
+    padding: 1% 9% 1%;
+    background-color: #1e2025;
+}
+
+.title-box {
+    background-color: #1e2025;
+    width: 40%;
+    color: #ffff;
+    position: absolute;
+    left: 55%;
+    top: 27%;
+}
+
+h1 {
+    font-size: 4rem;
+
+}
+
+.subtitle-text {
+    font-family: "Montserrat";
+    padding-bottom: 20%;
+    font-size: 1.5rem;
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+.title-text {
+    font-family: 'Libre Baskerville', serif;
+
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
+
+.title-img {
+    width: 70%;
+}
+
+#Intro {
+    text-align: center;
+    padding: 3% 10% 7%;
+
+}
+
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    padding: 2% 0;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+p {
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+}
+
+.intro-para {
+    width: 47%;
+    margin: 0 auto 5%;
+    font-size: 1.5rem;
+}
+
+.intro-img {
+    width: 60%;
+}
+
+#features {
+    background-color: #EEEE
+}
+
+.service-img {
+    width: 90%;
+
+}
+
+.choose-us {
+    width: 90%;
+
+}
+
+.parent {
+    display: flex;
+    padding: 0 8%;
+}
+
+.child {
+
+    margin: auto 0;
+    flex: 1;
+
+}
+
+.service-para {
+    width: 70%;
+}
+
+.choose-para {
+    width: 70%;
+}
+
+.parent-2 {
+    display: flex;
+    padding: 0 8%;
+}
+
+.child-2 {
+    flex: 1;
+    margin: auto 0;
+}
+
+#About-US {
+    background-color: #1e2025;
+    text-align: center;
+    color: #EEEE;
+}
+
+.abtus {
+    padding: 5% 10%;
+}
+
+
+
+
